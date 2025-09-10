@@ -1,18 +1,18 @@
 # Môn học: Chuỗi khối (Blockchain)
 # Mentor: Đặng Đình Thuận, Khoa Khoa học dữ liệu trong kinh doanh, HUB.
-
+# Đề cương:
 CHƯƠNG 1.  TỔNG QUAN Chuỗi khối
 1. Khái niệm chuỗi khối
-- Lịch sử ra đời
+   + Lịch sử ra đời
 2. Một số khái niệm chính
-- Khối và chuỗi
-- Sổ cái
-- Khoá
-- Máy ngang hàng (peer-to-peer)
-- Cơ chế đồng thuận 
-- Hợp đồng thông minh
-- Bằng chứng công việc
-- Đào tiền ảo
+   + Khối và chuỗi
+   + Sổ cái
+   + Khoá
+   + Máy ngang hàng (peer-to-peer)
+   + Cơ chế đồng thuận
+   + Hợp đồng thông minh
+   + Bằng chứng công việc
+   + Đào tiền ảo
 3. Các đặc tính của chuỗi khối
 4. Phân loại chuỗi khối
 5. Cấu trúc của một khối 
@@ -27,10 +27,10 @@ CHƯƠNG 2.  CÔNG NGHỆ PHÍA SAU CHUỖI KHỐI
 4. Cấu trúc phi tập trung và phân tán
 5. Tiền tệ hoá
 6. Bitcoin
-- Cơ chế hoạt động của Bitcoin
-- Lưu trữ và sử dụng Bitcoin
-- Đào Bitcoin
-- Trộm Bitcoin
+   + Cơ chế hoạt động của Bitcoin
+   + Lưu trữ và sử dụng Bitcoin
+   + Đào Bitcoin
+   + Trộm Bitcoin
 7. Ẩn danh
 8. Nền tảng Bitcoin
 9. Chuỗi khối như là một dịch vụ
@@ -50,25 +50,25 @@ CHƯƠNG 3.  TÀI SẢN ẢO VÀ ỨNG DỤNG CỦA CHUỖI KHỐI
 8. Vấn đề tội phạm và tiền ảo
 9. Phân tích dữ liệu tiền ảo
 10. Các ứng dụng điển hình của công nghệ chuỗi khối
-- Ứng dụng chuỗi khối trong tiền ảo
-- Ứng dụng chuỗi khối trong tài sản ảo
-- Ứng dụng chuỗi khối trong hợp đồng thông minh
-- Ứng dụng chuỗi khối trong công nghiệp, nông nghiệp và dịch vụ.
-- Một số vấn đề khác liên quan
+   + Ứng dụng chuỗi khối trong tiền ảo
+   + Ứng dụng chuỗi khối trong tài sản ảo
+   + Ứng dụng chuỗi khối trong hợp đồng thông minh
+   + Ứng dụng chuỗi khối trong công nghiệp, nông nghiệp và dịch vụ.
+   + Một số vấn đề khác liên quan
 
 ------------------------------------------
 
 CHƯƠNG 4. ETHREUM, HYPERLEDGER VÀ HỢP ĐỒNG THÔNG MINH
 1. Ethereum
-- Cơ bản về Ethereum
-- So sánh Ethereum và Bitcoin
-- Hợp đồng thông minh
-- Đào Ethereum
-- Một số nội dung khác liên quan đến Ethereum
+   + Cơ bản về Ethereum
+   + So sánh Ethereum và Bitcoin
+   + Hợp đồng thông minh
+   + Đào Ethereum
+   + Một số nội dung khác liên quan đến Ethereum
 2. Hyperledger
-- Giới thiệu Hyperledger
-- Thiết kế chuỗi khối dựa trên Hyperledger
-- Ứng dụng Hyperledger vào kinh tế, tài chính – ngân hàng
+   + Giới thiệu Hyperledger
+   + Thiết kế chuỗi khối dựa trên Hyperledger
+   + Ứng dụng Hyperledger vào kinh tế, tài chính – ngân hàng
 
 ------------------------------------------
 
