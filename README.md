@@ -43,7 +43,7 @@ CHƯƠNG 3.  TÀI SẢN ẢO VÀ ỨNG DỤNG CỦA CHUỖI KHỐI
 1. Khái niệm tài sản ảo
 2. Tiền ảo và thị trường giao dịch tiền ảo
 3. Hàng hoá ảo
-4  Crypto-token
+4. Crypto-token
 5. Khái niệm ICO
 6. Một số tiền ảo phổ biến
 7. Mô hình tài chính cho tiền ảo
