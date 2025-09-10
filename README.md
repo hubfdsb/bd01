@@ -1,4 +1,5 @@
 # Blockchain
+# Mentor: Đặng Đình Thuận, Khoa Khoa học dữ liệu trong kinh doanh, HUB.
 
 CHƯƠNG 1.  TỔNG QUAN Chuỗi khối
 1. Khái niệm chuỗi khối
