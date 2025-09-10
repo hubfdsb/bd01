@@ -20,7 +20,7 @@ CHƯƠNG 1.  TỔNG QUAN CHUỖI KHỐI
 
 ------------------------------------------
 
-<h2>CHƯƠNG 2.  CÔNG NGHỆ PHÍA SAU CHUỖI KHỐI</h2>
+CHƯƠNG 2.  CÔNG NGHỆ PHÍA SAU CHUỖI KHỐI
 1. Hàm băm mật mã
 2. Con trỏ băm và cấu trúc dữ liệu
 3. Chữ ký số
@@ -39,7 +39,7 @@ CHƯƠNG 1.  TỔNG QUAN CHUỖI KHỐI
 
 ------------------------------------------
 
-<h2>CHƯƠNG 3.  TÀI SẢN ẢO VÀ ỨNG DỤNG CỦA CHUỖI KHỐI</h2>
+CHƯƠNG 3.  TÀI SẢN ẢO VÀ ỨNG DỤNG CỦA CHUỖI KHỐI
 1. Khái niệm tài sản ảo
 2. Tiền ảo và thị trường giao dịch tiền ảo
 3. Hàng hoá ảo
@@ -58,7 +58,7 @@ CHƯƠNG 1.  TỔNG QUAN CHUỖI KHỐI
 
 ------------------------------------------
 
-<h2>CHƯƠNG 4. ETHREUM, HYPERLEDGER VÀ HỢP ĐỒNG THÔNG MINH</h2>
+CHƯƠNG 4. ETHREUM, HYPERLEDGER VÀ HỢP ĐỒNG THÔNG MINH
 1. Ethereum
    + Cơ bản về Ethereum
    + So sánh Ethereum và Bitcoin
@@ -72,7 +72,7 @@ CHƯƠNG 1.  TỔNG QUAN CHUỖI KHỐI
 
 ------------------------------------------
 
-<h2>Chương 5. TƯƠNG LAI CỦA CHUỖI KHỐI</h2>
+Chương 5. TƯƠNG LAI CỦA CHUỖI KHỐI
 1. Chuỗi khối trong tương lai
 2. Chuỗi khối và Trí tuệ nhân tạo
 3. Tác động của chuỗi khối đối với kinh tế và xã hội
