@@ -1,7 +1,7 @@
 # Môn học: Chuỗi khối (Blockchain)
 # Mentor: Đặng Đình Thuận, Khoa Khoa học dữ liệu trong kinh doanh, HUB.
 # Đề cương:
-CHƯƠNG 1.  TỔNG QUAN Chuỗi khối
+<h2>CHƯƠNG 1.  TỔNG QUAN Chuỗi khối </h2>
 1. Khái niệm chuỗi khối
    + Lịch sử ra đời
 2. Một số khái niệm chính
