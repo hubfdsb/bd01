@@ -50,7 +50,7 @@ CHƯƠNG 3.  TÀI SẢN ẢO VÀ ỨNG DỤNG CỦA CHUỖI KHỐI
 8. Vấn đề tội phạm và tiền ảo
 9. Phân tích dữ liệu tiền ảo
 10. Các ứng dụng điển hình của công nghệ chuỗi khối
-   + Ứng dụng chuỗi khối trong tiền ảo
+    + Ứng dụng chuỗi khối trong tiền ảo
    + Ứng dụng chuỗi khối trong tài sản ảo
    + Ứng dụng chuỗi khối trong hợp đồng thông minh
    + Ứng dụng chuỗi khối trong công nghiệp, nông nghiệp và dịch vụ.
