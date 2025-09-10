@@ -1,4 +1,4 @@
-# Blockchain
+# Môn học: Chuỗi khối (Blockchain)
 # Mentor: Đặng Đình Thuận, Khoa Khoa học dữ liệu trong kinh doanh, HUB.
 
 CHƯƠNG 1.  TỔNG QUAN Chuỗi khối
