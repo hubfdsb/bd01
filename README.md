@@ -1,5 +1,11 @@
 # Môn học: Chuỗi khối (Blockchain)
 # Mentor: Giảng viên Đặng Đình Thuận, Khoa Khoa học dữ liệu trong kinh doanh, ĐH Ngân hàng TPHCM.
+------------------------------------------
+
+# Khuyến kích sinh viên hoàn thành bài tập đánh giá cá nhân theo sau:
+   + Tạo ví Metamask
+   + Đăng nhập https://www.hackquest.io/vi/learning-track/Ethereum sử dụng ví Metamask để học và làm kiểm tra.
+
 # Đề cương:
 CHƯƠNG 1.  TỔNG QUAN CHUỖI KHỐI
 1. Khái niệm chuỗi khối
@@ -80,3 +86,6 @@ Chương 5. TƯƠNG LAI CỦA CHUỖI KHỐI
 5. Chuỗi khối và luật pháp
 6. Bảo mật chuỗi khối
 7. Một số nội dung khác có liên quan 
+
+
+
