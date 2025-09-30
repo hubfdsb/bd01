@@ -2,7 +2,7 @@
 # Mentor: Giảng viên Đặng Đình Thuận, Khoa Khoa học dữ liệu trong kinh doanh, ĐH Ngân hàng TPHCM.
 ------------------------------------------
 
-# Khuyến kích sinh viên hoàn thành bài tập đánh giá cá nhân theo sau:
+# Khuyến khích sinh viên làm bài tập cá nhân như sau:
    + Tạo ví Metamask
    + Đăng nhập https://www.hackquest.io/vi/learning-track/Ethereum sử dụng ví Metamask để học và làm kiểm tra.
 
