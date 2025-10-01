@@ -1,5 +1,5 @@
 # Môn học: Chuỗi khối (Blockchain)
-# Mentor: Giảng viên Đặng Đình Thuận, Khoa Khoa học dữ liệu trong kinh doanh, ĐH Ngân hàng TPHCM.
+# Mentor: Giảng viên Đặng Đình Thuận, Khoa Khoa học dữ liệu trong kinh doanh, ĐH Ngân hàng TPHCM. Email: thuandd@hub.edu.vn / thisthuan@gmail.com
 ------------------------------------------
 
 # Khuyến khích sinh viên làm bài tập cá nhân như sau:
