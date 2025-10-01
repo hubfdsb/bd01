@@ -5,6 +5,9 @@
 # Khuyến khích sinh viên làm bài tập cá nhân như sau:
    + Tạo ví Metamask
    + Đăng nhập https://www.hackquest.io/vi/learning-track/Ethereum sử dụng ví Metamask để học và làm kiểm tra.
+   + Thực hành DEX Uniswap https://app.uniswap.org/.
+   + Thực hành DEX phái sinh https://app.hyperliquid.xyz/trade.
+
 
 # Đề cương:
 CHƯƠNG 1.  TỔNG QUAN CHUỖI KHỐI
